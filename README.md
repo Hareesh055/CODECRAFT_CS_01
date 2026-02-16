@@ -38,7 +38,7 @@ Keeps non alphabet characters unchanged
 
 Uses modulo arithmetic for wrap around logic
 
-⚙️ How the Algorithm Works
+**⚙️ How the Algorithm Works**
 
 The user selects a mode (Encrypt or Decrypt).
 
